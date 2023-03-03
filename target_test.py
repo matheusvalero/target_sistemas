@@ -1,6 +1,6 @@
 #Escrevi o código usando OO para mostrar meus relativos conhecimentos nessa prática. Consigo escrever tanto em OO quanto em procedural
 #Fiquei receoso de escrevê-lo dessa forma, pois li à respeito sobre algumas empresas que não viam OO com bons olhos
-#Usei de Boas Práticas, Código Limpo, em OO usei Encapsulamento, Herança e Polimorfismo.
+#Usei de Boas Práticas, Código Limpo, em OO usei Encapsulamento, Herança e suas vantagens.
 #Mas mesmo assim, aí está! Espero que gostem e me considerem para continuar no processo seletivo! :)
 
 class Exercicio:
