@@ -1,13 +1,14 @@
+
+//PARA AVALIAÇÃO DO PROCESSO SELETIVO, POR FAVOR CONSIDERAR ANALISAR PRIMEIRAMENTE O CÓDIGO EM PYTHON
+
 //Criei uma versão em Java mais simples, porém aconselho a olhar o arquivo .py, o código em Python está muito mais trabalhado e polido
-//Peço por favor que dê uma olhada primeiramente no código Python, e caso tenha que escolher um para avaliação, escolha o código em Python
-// (O código em Python está bem mais explicado e com menos bugs)
-//Mesmo assim, aqui está o código em Java! estou estudando e me aperfeiçoando cada vez mais em Java...
+//O código em Python está bem mais explicado e com menos bugs, caso tenha que escolher um para a avaliação, peço que escolha o código em Python
+//Mesmo assim, aqui está o código em Java! Estou estudando e me aperfeiçoando cada vez mais em Java...
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-
 import javax.print.event.PrintJobListener;
 
 public class TargetSys {
