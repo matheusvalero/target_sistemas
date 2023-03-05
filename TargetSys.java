@@ -1,5 +1,6 @@
 //Criei uma versão em Java mais simples, porém aconselho a olhar o arquivo .py, o código em Python está muito mais trabalhado e polido
 //Peço por favor que dê uma olhada primeiramente no código Python, e caso tenha que escolher um para avaliação, escolha o código em Python
+// (O código em Python está bem mais explicado e com menos bugs)
 //Mesmo assim, aqui está o código em Java! estou estudando e me aperfeiçoando cada vez mais em Java...
 
 import java.util.ArrayList;
