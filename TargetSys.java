@@ -3,7 +3,7 @@
 
 //Criei uma versão em Java mais simples, porém aconselho a olhar o arquivo .py, o código em Python está muito mais trabalhado e polido
 //O código em Python está bem mais explicado e com menos bugs, caso tenha que escolher um para a avaliação, peço que escolha o código em Python
-//Mesmo assim, aqui está o código em Java! Estou estudando e me aperfeiçoando cada vez mais em Java...
+//Mesmo assim, aqui está o código em Java!...
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -128,7 +128,7 @@ public class TargetSys {
             frase_invertida += frase.charAt(i);
         }
         System.out.println(frase_invertida);
-        return frase;
+        return frase_invertida;
     }
     
 }
