@@ -61,7 +61,7 @@ def problema1():
         k = 0
         while k < indice:
             k = k + 1
-        soma += k
+            soma += k
 
         for i in range(3):
             try:
