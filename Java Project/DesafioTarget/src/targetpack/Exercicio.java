@@ -1,6 +1,5 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package targetpack;
+
 import java.util.Scanner;
 
 public class Exercicio {
@@ -55,6 +54,7 @@ public class Exercicio {
     }
 
     public void quintoExercicio(){
+
         Scanner esca = new Scanner(System.in);
         System.out.print("Digite uma frase qualquer: ");
         String frase = "";

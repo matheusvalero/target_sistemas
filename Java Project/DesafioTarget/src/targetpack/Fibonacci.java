@@ -1,11 +1,11 @@
+package targetpack;
+
 import java.util.List;
-import java.lang.*;
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Fibonacci extends Exercicio{
-    private List fibonacci;
+    private List<Integer> fibonacci;
 
     public List<Integer> segundoExercicio(){
         Scanner inputando = new Scanner(System.in);
@@ -31,11 +31,11 @@ public class Fibonacci extends Exercicio{
         return sequencia_fibo;
     }
 
-    public List getFibonacci(){
+    public List<Integer> getFibonacci(){
         return this.fibonacci;
     }
 
-    public void setFibonacci(List fibonacci) {
+    public void setFibonacci(List<Integer> fibonacci) {
         this.fibonacci = fibonacci;
     }
 }

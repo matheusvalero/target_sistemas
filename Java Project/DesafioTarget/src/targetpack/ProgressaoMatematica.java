@@ -1,7 +1,7 @@
-import java.util.List;
+package targetpack;
+
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class ProgressaoMatematica extends Exercicio{
     public void terceiroExercicio(){
